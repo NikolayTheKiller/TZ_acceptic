@@ -1,0 +1,132 @@
+.container{
+    width: 450px;
+    height: 500px;
+    background-color: dimgray;
+    margin: 180px auto 100px auto;
+    text-align: center;
+    border-radius:  10px;
+}
+
+input[type="text"],input[type="email"],input[type="password"]{
+    width: 300px;
+    height: 50px;
+    font-size: 18px;
+    margin-bottom: 25px;
+    border-radius: 4px;
+    padding-left: 10px;
+}
+
+.container img{
+    width: 120px;
+    height: 120px;
+    margin: -60px 0 30px 0;
+    border: 5px solid mediumseagreen;
+    border-radius: 50%;
+}
+
+.t_submit{
+    padding: 13px 30px;
+    margin: 5px 0 20px 0;
+    color: white;
+    background-color: green;
+    border: 1px solid green;
+    border-radius: 4px;
+    border-bottom: 4px solid forestgreen;
+    cursor: pointer;
+    font-family: 'PT Serif', serif;
+}
+
+.t_submit:hover{
+    transition: all 0.5s;
+    background: darkcyan;
+    color: dimgray;
+}
+
+.almost {
+    width: 500px;
+    height: 130px;
+    background-color: gray;
+    margin: 250px auto 100px auto;
+    text-align: center;
+    border-radius:  10px
+   }
+   
+   .almost p{
+       padding: 20px;
+       font-family: 'PT Serif', serif;
+       font-size: 1.2em; 
+   }
+   
+   .edit{
+       height: 40px;
+       width: 100px;
+       background-color: green;
+       color: white;
+       font-family: 'PT Serif', serif;
+       font-size: 1em;
+       border: 1px solid mediumseagreen;
+       border-radius:  10px
+   }
+
+   .p_log{
+       font-family: 'PT Serif', serif;
+       font-size: 1.2em;  
+       padding-left: 20px;
+       padding-right: 20px
+   }
+   
+   .title{
+       float: left;
+       margin-left: 20px
+   }
+   
+   .personal{
+       margin-top: 150px;
+   }
+   
+   .cab{
+    width: 500px;
+    height: 100px;
+    background-color: gray;
+    margin: 50px 40px;    
+    text-align: center;
+    float: right;
+    border-radius:  10px
+   }
+   
+   .cab p{
+       padding: 20px;
+       font-family: 'PT Serif', serif;
+       font-size: 1.2em; 
+   }
+   
+   .formedit {
+    width: 400px;
+    height: 150px;
+    background-color: teal;
+    border-radius:  10px
+   }
+   
+   .formeditpass{
+    width: 400px;
+    height: 340px;
+    background-color: teal;
+    border-radius:  10px
+   }
+   
+   .f_ed{
+       padding: 35px
+   }
+   
+   .save{
+    margin: 5px 0 20px 120px;
+    color: white;
+    background-color: darkslategray;
+    border: 1px solid darkslategray;
+    border-radius: 4px;
+    border-bottom: 4px solid darkslategray;
+    cursor: pointer;
+    font-family: 'PT Serif', serif;
+   }
+   
+   

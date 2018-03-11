@@ -1,0 +1,104 @@
+    .main{
+        color: white;
+        font-family: 'Roboto Slab', serif;
+    }
+
+    .main:hover{
+        color: white;
+        }
+
+    #main{
+            width: 60%;
+            float: left;
+            margin-top: 20px;
+            margin-left: 3%;
+        }
+
+    aside{
+        float: left;
+        width: 30%;
+        margin-left: 2%;
+        margin-top: 20px;
+        
+    }   
+    
+    .heading{
+        font-weight: lighter;
+        font-size: 1.4em;
+        font-family: 'Roboto Slab', serif;
+        border-bottom: 2px solid green;
+        float: left;
+        color: #4f4f4f;
+        padding: 0px 5px;
+    }
+    
+    .heading:first-letter{
+        color: red;
+    }
+    
+    .article{
+        width: 40%;
+        float: left;
+        margin-left: 2%;
+        margin-bottom: 20px;
+        border: 1px solid #e3e3e3;
+        background-color: white;
+        box-sizing: border-box;
+        max-width: 350px;
+        border-radius: 5px;
+    }
+    
+    .article>img{
+         border-radius: 5px 5px 0 0;
+         width: 100%;
+         height: 150px;
+    }
+    
+    .article>span{
+        font-family: 'Roboto Slab', serif;
+        font-size: 1.3em;
+        width: 80%;
+        margin: 7px 10%;
+        float: left;
+        text-align: center;
+        color: #333;
+    }
+    
+    #main .btn{
+        margin-bottom: 20px;
+        float: left;
+        margin-left: 30%;
+    }
+    
+    #news{
+        margin-left: 10%;
+        width: 90%;
+        float: left;
+    }
+    
+    #courses{
+        float: left;
+        width: 90%;
+    }
+    
+    .course{
+        width: 100%;
+        margin-bottom: 10px;
+        float: left;
+        font-family: 'Roboto Slab', serif;
+        font-size: 1.2em;
+        color: #646464;
+    }
+    
+    .course>img{
+        border: 2px solid #dfdfdf;
+        border-radius: 5px;
+        width: 35%;
+        float: left;
+        margin-right: 10px;
+    }
+    
+    .course>span{
+        font-weight: bold;
+        color: dimgray;
+    }
